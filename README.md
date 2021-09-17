@@ -1,6 +1,7 @@
 # Cammand-of-Apache-Cassandra-in-Python
 
 Let's take a look at how to understanding of Cassandra and how you can use in your Python apps.
+We have a example about delete a data from Cassandra  replace shell command with Python apps. 
 
 EC2 type : t3.xlarge
 
