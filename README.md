@@ -14,8 +14,7 @@ python version :3.6.9
 
 We’d need to install the driver. 
 Run the command:
-
-pip3 install cassandra-driver
+  pip3 install cassandra-driver
 
 
 referance: 
